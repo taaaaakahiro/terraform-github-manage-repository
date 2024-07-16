@@ -1,1 +1,1 @@
-# terraform-github-mange-repository
+# terraform-github-manage-repository
