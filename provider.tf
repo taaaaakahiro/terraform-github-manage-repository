@@ -8,6 +8,6 @@ terraform {
 }
 
 provider "github" {
-    token = var.token
+  token = var.token
   owner = "taaaaakahiro" # 自分のGithubのアカウント名 例: https://github.com/nakamasato
 }
