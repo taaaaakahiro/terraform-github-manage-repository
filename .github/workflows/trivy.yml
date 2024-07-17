@@ -5,6 +5,7 @@ on:
 
 jobs:
   scan:
+    name: trivy
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
